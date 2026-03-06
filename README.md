@@ -23,8 +23,10 @@ unit hydrograph approach, combined with machine-learning classification methods.
 - `hydrological_response.ipynb`  
   Simulation of discharge from observed and forecast precipitation using a
   unit hydrograph function
-- correlating_bflow.ipynb
+  
+- `correlating_bflow.ipynb`
   Computation and optimization of monthly constant to represent additional flow in monsoon season
+  
 - `machine_learning_dynamic.ipynb`  
   Training and validation of machine-learning classifiers for flash flood
   event detection
@@ -36,4 +38,5 @@ unit hydrograph approach, combined with machine-learning classification methods.
 ## Notes
 - Code is shared for demonstration purposes.
 - Input datasets are excluded due to size and data confidentiality.
+
 
